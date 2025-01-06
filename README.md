@@ -9,7 +9,7 @@ Je suis un **aspirant Data Engineer** passionné par l'univers des données. Ave
 
 ## Compétences
 
-- **Data Engineering** : Pipelines de données, ETL, bases de données, cloud computing.
+- **Data Engineering**  : Pipelines de données, ETL, bases de données, cloud computing.
 - **Data Analysis** : Exploration, nettoyage et visualisation de données.
 - **Développement Python** : Scripts, automatisation et manipulation de données.
 - **Génie logiciel** : Développement d'applications, gestion de projets et bonnes pratiques de programmation.
